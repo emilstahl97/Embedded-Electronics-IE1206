@@ -1,7 +1,8 @@
 # Embedded-Electronics-IE1206
 
-Content and learning outcomes
-Course contents *
+## Content and learning outcomes
+
+### Course contents
 
 The microcontroller as an embedded system component.
 Input and output devices in a microcontroller.
@@ -15,7 +16,7 @@ Circuit analysis with mesh and node ananlysis, superposition and Thevenin/Norton
 Transients in RC/RL-nets. 
 Analyse RLC-nets including resonance circuits using the phasor method.
 
-Intended learning outcomes *
+## Intended learning outcomes
 
 This course provides basic knowledge of circuit theory and electronics. It also provides knowledge of the various devices that can be found in a microcontroller and how these are supposed to be used.
 
