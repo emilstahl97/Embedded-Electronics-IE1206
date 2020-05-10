@@ -1,0 +1,38 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,0,1100,800,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=task1.dat>
+  <DataDisplay=task1 b).sch>
+  <OpenDisplay=1>
+  <Script=task1.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Tab 170 514 605 94 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<"Pr1.V" #0000ff 0 3 1 0 0>
+	<"Pr2.V" #0000ff 0 3 1 0 0>
+	<"Pr3.V" #0000ff 0 3 1 0 0>
+	<"Pr4.V" #0000ff 0 3 1 0 0>
+	<"Pr5.V" #0000ff 0 3 1 0 0>
+	<"Pr6.V" #0000ff 0 3 1 0 0>
+	<"Pr7.V" #0000ff 0 3 1 0 0>
+	<"Pr8.V" #0000ff 0 3 1 0 0>
+	<"Pr9.V" #0000ff 0 3 1 0 0>
+	<"VA.I" #0000ff 0 3 1 0 0>
+	<"VB.I" #0000ff 0 3 1 0 0>
+  </Tab>
+</Diagrams>
+<Paintings>
+</Paintings>
