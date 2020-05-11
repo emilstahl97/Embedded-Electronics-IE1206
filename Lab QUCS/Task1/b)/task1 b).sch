@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.19>
 <Properties>
-  <View=-7,68,990,710,1.42383,78,0>
+  <View=-7,75,990,679,1.42383,78,28>
   <Grid=10,10,1>
   <DataSet=task1.dat>
   <DataDisplay=task1.dpl>
@@ -102,6 +102,18 @@
   <140 510 140 570 "" 0 0 0 "">
 </Wires>
 <Diagrams>
+  <Tab 140 666 555 49 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<"Pr1.V" #0000ff 0 3 1 0 0>
+	<"Pr2.V" #0000ff 0 3 1 0 0>
+	<"Pr3.V" #0000ff 0 3 1 0 0>
+	<"Pr4.V" #0000ff 0 3 1 0 0>
+	<"Pr5.V" #0000ff 0 3 1 0 0>
+	<"Pr6.V" #0000ff 0 3 1 0 0>
+	<"Pr7.V" #0000ff 0 3 1 0 0>
+	<"Pr8.V" #0000ff 0 3 1 0 0>
+	<"Pr9.V" #0000ff 0 3 1 0 0>
+	<"Pr10.V" #0000ff 0 3 1 0 0>
+  </Tab>
 </Diagrams>
 <Paintings>
 </Paintings>
