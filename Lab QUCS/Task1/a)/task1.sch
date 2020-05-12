@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.19>
 <Properties>
-  <View=-7,100,990,703,1.42383,0,0>
+  <View=-7,25,990,787,1.42383,0,0>
   <Grid=10,10,1>
   <DataSet=task1.dat>
   <DataDisplay=task1.dpl>
@@ -38,8 +38,8 @@
   <IProbe Pr12 1 400 540 16 -26 0 1>
   <.DC DC1 1 660 550 0 33 0 0 "26.85" 0 "0.001" 0 "1 pA" 0 "1 uV" 0 "no" 0 "150" 0 "no" 0 "none" 0 "CroutLU" 0>
   <IProbe Pr5 1 400 280 -35 -26 0 3>
-  <Vdc VA 1 140 520 -52 -26 1 1 "5 V" 1>
   <IProbe Pr6 1 400 360 16 -26 0 1>
+  <Vdc VA 1 140 520 -52 -26 0 3 "5 V" 1>
 </Components>
 <Wires>
   <640 320 640 380 "" 0 0 0 "">
