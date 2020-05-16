@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.19>
 <Properties>
-  <View=-107,-70,1399,733,1.74639,92,0>
+  <View=-107,-70,1399,797,1.74639,92,0>
   <Grid=10,10,1>
   <DataSet=uppgift2.dat>
   <DataDisplay=uppgift2.dpl>
@@ -22,6 +22,7 @@
   <Vac V1 1 200 300 18 -26 0 1 "1 V" 1 "1 GHz" 0 "0" 0 "0" 0>
   <.AC AC1 1 470 -20 0 33 0 0 "log" 1 "1 Hz" 1 "100000Hz" 1 "100" 1 "no" 0>
   <C C1 1 390 140 -26 -41 1 0 "0.000000047F" 1 "" 0 "neutral" 0>
+  <Eqn Eqn1 1 330 760 -23 13 0 0 "PhaseOfPr1=phase(Pr1.v)" 1 "yes" 0>
 </Components>
 <Wires>
   <560 410 880 410 "" 0 0 0 "">
@@ -40,6 +41,9 @@
 <Diagrams>
   <Rect 30 680 325 161 3 #c0c0c0 1 00 1 0 20000 100000 1 -0.0816245 0.5 1 1 -1 1 1 315 0 225 "" "Resistor" "">
 	<"Pr1.v" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 470 680 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"PhaseOfPr1" #0000ff 0 3 0 0 0>
   </Rect>
 </Diagrams>
 <Paintings>
